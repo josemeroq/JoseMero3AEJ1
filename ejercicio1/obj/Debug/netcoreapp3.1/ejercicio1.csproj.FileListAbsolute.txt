@@ -1,0 +1,14 @@
+E:\Programas C#\tareas poo\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.csproj.AssemblyReference.cache
+E:\Programas C#\tareas poo\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas C#\tareas poo\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.AssemblyInfoInputs.cache
+E:\Programas C#\tareas poo\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.AssemblyInfo.cs
+E:\Programas C#\tareas poo\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.csproj.CoreCompileInputs.cache
+E:\Programas C#\tareas poo\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.exe
+E:\Programas C#\tareas poo\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.deps.json
+E:\Programas C#\tareas poo\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.runtimeconfig.json
+E:\Programas C#\tareas poo\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.runtimeconfig.dev.json
+E:\Programas C#\tareas poo\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.dll
+E:\Programas C#\tareas poo\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.pdb
+E:\Programas C#\tareas poo\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.dll
+E:\Programas C#\tareas poo\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.pdb
+E:\Programas C#\tareas poo\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.genruntimeconfig.cache
